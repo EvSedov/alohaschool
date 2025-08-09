@@ -1,0 +1,39 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Главная"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Сведения об образовательной организации"
+url = "/education"
+weight = 2
+
+[[main]]
+name = "Программа обучения"
+url = "/program"
+weight = 3
+
+
+# footer menu
+[[footer]]
+name = "Главная"
+url = "/"
+weight = 1
+
+[[footer]]
+name = "Сведения об образовательной организации"
+url = "/education"
+weight = 2
+
+[[footer]]
+name = "Программа обучения"
+url = "/program"
+weight = 3
+
+[[footer]]
+name = "Политика конфиденциальности"
+url = "/privacy-policy"
+weight = 4
